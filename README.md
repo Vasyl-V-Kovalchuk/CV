@@ -1,2 +1,2 @@
-# CV-Curriculum-Vitae-
+# CV
 Curriculum Vitae Website 
